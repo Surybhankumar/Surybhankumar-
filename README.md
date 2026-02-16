@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-🎓 3rd Year CSE Student (4th Semester)  
+3rd Year CSE Student | Open to Software Development Internship
 💻 Passionate about Software Development & Problem Solving  
 🔭 Currently working on: **Food Delivery Web Application**  
 🌱 Currently learning: **Backtracking, DSA & Spring Boot**  
