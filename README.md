@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surybhan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=2nd+Year+CSE+Student;Java+%7C+DSA+Learner;Open+to+Software+Internship;Web+Developer+%7C+Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=3rd+Year+CSE+Student;Java+%7C+DSA+Learner;Open+to+Software+Internship;Web+Developer+%7C+Problem+Solver&center=true&width=500&height=45">
 </p>
 
 <h3 align="center">💻 Aspiring Software Developer | Java • DSA • Web Development</h3>
