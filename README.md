@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surybhan Kumar</h1>
-<h3 align="center">💻 2nd Year CSE Student | Java & DSA Learner | Aspiring Software Developer</h3>
+<h3 align="center">💻 3rd Year CSE Student | Java & DSA Learner | Aspiring Software Developer</h3>
 
 ---
 
